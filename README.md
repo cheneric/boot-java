@@ -2,7 +2,7 @@
 
 ### Overview
 
-This is a Spring Boot starter template in Java. 
+This is a Spring Boot starter project template for Java. 
 
 ### Technologies
 
