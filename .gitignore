@@ -1,6 +1,8 @@
-HELP.md
-.gradle
+### Gradle ###
 build/
+.gradle
+HELP.md
+local.properties
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
@@ -38,3 +40,7 @@ out/
 
 ### MacOS ###
 .DS_Store
+
+### jenv ###
+.java-version
+

@@ -5,7 +5,10 @@ build/
 /gradle/
 /images/
 /*.md
-/gradlew*
 /.dockerignore
 /.gitignore
+/.java-version
 /Dockerfile
+/gradlew*
+/local.properties
+
